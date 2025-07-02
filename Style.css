@@ -89,4 +89,26 @@ table th, table td {
 }
 table th {
     background-color: #f2f2f2;
+}table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+table th, table td {
+    border: 1px solid #999;
+    padding: 10px;
+    text-align: left;
+    vertical-align: top;
+}
+table th {
+    background-color: #f2f2f2;
+}
+table img {
+    display: block;
+    margin: auto;
+}
+ul {
+    padding-left: 20px;
+    list-style-type: disc;
 }
